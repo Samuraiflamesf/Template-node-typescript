@@ -1,4 +1,4 @@
-# Template-node-typescript
+# Template Node Typescript
 // Template para projetos de typescript\n
 // Como usar\n
 // git clone "link" . \n
