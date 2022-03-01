@@ -1,6 +1,6 @@
 # Template Node Typescript
 <p> Template para projetos em typescript
-<p> <h1>Como instalar:</h1>
+<p> <h3>Como instalar:</h3>
 <p> git clone "link" . 
 <p> npm install 
 <p> npm run dev <p>para testar se esta tudo (Ok) 
