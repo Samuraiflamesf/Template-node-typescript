@@ -1,8 +1,8 @@
 # Template-node-typescript
-// Template para projetos de typescript
-// Como usar
-// git clone "link" .
-// npm install
-// npm run dev //para testar se esta tudo (Ok)
-// npm run build
-// npm start
+// Template para projetos de typescript\n
+// Como usar\n
+// git clone "link" . \n
+// npm install \n
+// npm run dev //para testar se esta tudo (Ok) \n
+// npm run build \n
+// npm start \n
