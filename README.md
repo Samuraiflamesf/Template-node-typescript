@@ -1,4 +1,4 @@
-# Template Node Typescript
+<h2 alight="center">Template Node Typescript</h2>
 <p> Template para projetos em typescript
 <p> <h3>Como instalar:</h3>
 <p> git clone "link" . 
